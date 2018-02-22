@@ -1,0 +1,37 @@
+#main {
+    background-image: url('../images/Euterpe_Labeled_Transparent.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 10%;
+    background-color: #eafff8;
+}
+
+body {
+    padding: 30px 30px 30px 30px;
+}
+
+.textbox {
+    padding: 0px 0px 100px 0px;
+}
+
+.text {
+    font-family: "DejaVu Sans", sans;
+    background-color: #ffffff;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+#blurb-textbox {
+    padding: 600px 0px 100px 0px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#blurb {
+    font-family: "Space Mono", mono;
+    font-size: 32;
+    background-color: #ffffff;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
